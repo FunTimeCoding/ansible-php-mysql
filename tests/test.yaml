@@ -1,4 +1,4 @@
 ---
 - hosts: localhost
   roles:
-    - ansible-php-mysql
+  - ansible-php-mysql
